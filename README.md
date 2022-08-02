@@ -10,7 +10,7 @@ In your app, users will be able to answer polls, see which polls they haven’t 
 
 # Commands for building, starting and testing the Employee Polls Project
 1. For building the project - npm run build
-2. For setup and installing the project - npm run install
+2. For setup and installing the project - npm install
 3. For starting the project - npm run start
 4. For running the test cases - npm run test
 
